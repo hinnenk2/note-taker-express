@@ -38,11 +38,13 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Deployed Link
 
-Deployed on Heroku at: 
+Deployed on Heroku at: https://note-taker-express-hinnenk2.herokuapp.com/
 
 ## Screenshots
 
+![intro-page](https://github.com/hinnenk2/note-taker-express/assets/124109780/7a62fefb-683e-40d4-ab0a-d05416ddf1e7)
 
+![user-page](https://github.com/hinnenk2/note-taker-express/assets/124109780/c50c7a56-f751-424e-920f-f2431e257dee)
 
 ## Installation
 
@@ -63,7 +65,7 @@ After downloading the files and installing dependencies, run
 node server.js
 `
 
-Walkthrough Video: 
+Walkthrough Video: [Note Taker.webm](https://github.com/hinnenk2/note-taker-express/assets/124109780/3ed5284e-4ce2-4123-b2e7-67973b083484)
 
 ## License
 

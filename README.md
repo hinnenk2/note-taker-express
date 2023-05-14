@@ -65,7 +65,7 @@ After downloading the files and installing dependencies, run
 node server.js
 `
 
-Walkthrough Video: 
+Walkthrough Video: [Note Taker.webm](https://github.com/hinnenk2/note-taker-express/assets/124109780/3ed5284e-4ce2-4123-b2e7-67973b083484)
 
 ## License
 
